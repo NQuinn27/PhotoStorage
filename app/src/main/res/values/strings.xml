@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Photoz</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_album_detail">AlbumDetailActivity</string>
+    <string name="title_activity_photo_list">PhotoListActivity</string>
+    <string name="title_activity_album_photos">AlbumPhotosActivity</string>
+    <string name="action_select">Select</string>
+    <string name="action_delete">Delete</string>
+</resources>
